@@ -279,9 +279,7 @@ to the sands of time.",
     "item_radspellbook.gif"));
 Library.addItem(new Item("PaperbackRomance", 
     "You flip the paperback open to a random page. \
-\"Oh, Horatio!\" Antonia exclaimed, her bosom heaving as Horatio deftly ripped the \
-bodice from her lithe frame. Horatio gave an animalistic growl and he clasped her \
-fingers in his strong hands and brought them to rest upon ... — You close the \
+\"Oh, Horatio!\" Antonia exclaimed, ... — You close the \
 book, disinterested, and place it back on the shelf.",
     "item_romancenovel.gif"));
 Library.addItem(new Item("HistoryOfTerminus", 
